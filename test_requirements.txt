@@ -1,0 +1,3 @@
+os-testr>=0.7.0
+coverage>=4.3.4
+flake8>=3.3.0
