@@ -4,7 +4,7 @@
 yeti is a storage and analysis engine for AWS Billing Management. Currently supports resource type, usage type, operation, quantity, rate and cost of AWS Billing reports. And also supports customized tags for mulitple analysis dimension.
 
 ### Architecture
-![](/screenshots/yeti-arc.png)
+![](/screenshots/yeti-arch.png)
 
 ### Components
 
